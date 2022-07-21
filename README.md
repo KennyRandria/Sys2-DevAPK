@@ -1,4 +1,6 @@
-Bonjour , ce repository consiste à la developpement de web scrapping en android
+Bonjour , ce repository consiste à la developpement de web scrapping en android,
+
+l'application requis au moins la version v5.0 lollipop d'android
 
 Le site se refère sur l'ebay qui est une place de marché qui permet à ses utilisateurs d'offrir, de vendre ou d'acheter pratiquement tout type d'objets
 
