@@ -1,4 +1,4 @@
-Bonjour , ce repository consiste à la developpement de web scrapping en android,
+Bonjour , ce repository consiste aux developpement de web scrapping en application android,
 
 l'application requis au moins la version v5.0 lollipop d'android
 
