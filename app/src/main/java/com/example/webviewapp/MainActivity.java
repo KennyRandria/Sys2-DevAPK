@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity
 
         webView.getSettings().setJavaScriptEnabled(true);
 
-        webView.loadUrl("https://ebay.com");
+        webView.loadUrl("https://www.portaljob-madagascar.com");
     }
 
     @Override
